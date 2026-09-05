@@ -376,7 +376,7 @@ This thesis was completed as part of the **MIR Erasmus Mundus Joint Master's Pro
 **Mahmoud Hassan**
 MSc Marine Cybernetics — NTNU | MIR Erasmus Mundus
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/mahmoud-h-abdelrazik-hassan-1b3ba1178/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:YOUR_EMAIL)
 
 ---
