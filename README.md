@@ -194,7 +194,7 @@ All images are annotated in **YOLO format** (bounding boxes, class labels). Anno
      This is the centrepiece visual of the entire repository — host on YouTube
      and embed with a thumbnail. -->
 
-[![Detection Results Video](https://img.shields.io/badge/▶%20Watch-Detection%20Results%20Video-red?style=for-the-badge&logo=youtube)](YOUR_VIDEO_LINK_HERE)
+[![Detection Results Video](https://img.shields.io/badge/▶%20Watch-Detection%20Results%20Video-red?style=for-the-badge&logo=youtube)](https://www.linkedin.com/posts/mahmoud-h-abdelrazik-hassan-1b3ba1178_how-trustworthy-and-reliable-is-your-object-activity-7498269197752512512-PY8B?utm_source=share&utm_medium=member_desktop&rcm=ACoAACottdcBw9qbYUXpiSni5VRuqAfWdlpyIXg)
 
 ### Docking Station Detection — Target Domain (Norbit WBMS Test Dataset)
 
